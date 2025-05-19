@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "name": "Derek Lane",
+        "age": 72,
+        "gender": "male",
+        "email": "hubersandra@example.org",
+        "address": "4994 Karen Meadow Suite 479, East Heatherchester, KY 73591",
+        "phone": "273.651.5019x12654"
+    },
+    {
+        "id": 2,
+        "name": "Joshua Smith",
+        "age": 31,
+        "gender": "male",
+        "email": "patriciapoole@example.net",
+        "address": "29886 Joseph Shoal Apt. 635, West Brandonville, UT 53956",
+        "phone": "554.671.1356"
+    },
+    {
+        "id": 3,
+        "name": "Laura Adams",
+        "age": 44,
+        "gender": "male",
+        "email": "johnsonpaul@example.org",
+        "address": "USCGC Fuller, FPO AE 64910",
+        "phone": "+1-429-715-8844x346"
+    },
+    {
+        "id": 4,
+        "name": "Robert Blackburn",
+        "age": 33,
+        "gender": "male",
+        "email": "anamartinez@example.org",
+        "address": "Unit 0588 Box 4286, DPO AA 94150",
+        "phone": "7837055346"
+    },
+    {
+        "id": 5,
+        "name": "Jordan Mclean",
+        "age": 56,
+        "gender": "female",
+        "email": "williamspamela@example.org",
+        "address": "8361 Lucero Mission, West Kathyton, LA 50117",
+        "phone": "392.751.5584x22777"
+    },
+    {
+        "id": 6,
+        "name": "Ashlee Williamson",
+        "age": 57,
+        "gender": "female",
+        "email": "jeremy21@example.net",
+        "address": "942 Gibbs Vista Suite 035, West Daniel, CT 06416",
+        "phone": "(341)312-2767x9667"
+    },
+    {
+        "id": 7,
+        "name": "Derek Peterson",
+        "age": 30,
+        "gender": "female",
+        "email": "olewis@example.com",
+        "address": "6137 John Turnpike Apt. 431, Thomasburgh, ND 70708",
+        "phone": "001-738-348-9083"
+    },
+    {
+        "id": 8,
+        "name": "Jonathan Anderson",
+        "age": 52,
+        "gender": "female",
+        "email": "emorgan@example.net",
+        "address": "71754 Daniel Prairie Suite 576, North Shellyside, GU 52011",
+        "phone": "001-895-235-1743x39122"
+    },
+    {
+        "id": 9,
+        "name": "Terri Perez",
+        "age": 68,
+        "gender": "female",
+        "email": "millerwilliam@example.org",
+        "address": "84797 Clarke Estate, North Claireville, WV 95352",
+        "phone": "001-234-456-3406"
+    },
+    {
+        "id": 10,
+        "name": "Derek Wilson",
+        "age": 21,
+        "gender": "male",
+        "email": "ablackburn@example.net",
+        "address": "34491 Tran Lane, Lake Timothyport, CA 70943",
+        "phone": "(955)642-7165"
+    },
+    {
+        "id": 11,
+        "name": "Brianna Stewart",
+        "age": 62,
+        "gender": "male",
+        "email": "ericavargas@example.org",
+        "address": "1750 Owens Way, East Scott, NM 66811",
+        "phone": "(802)820-7354"
+    },
+    {
+        "id": 12,
+        "name": "Timothy Carr",
+        "age": 38,
+        "gender": "female",
+        "email": "stevensonlindsay@example.org",
+        "address": "34347 Williams Point Apt. 362, Ryanborough, AS 87024",
+        "phone": "838.395.7600"
+    },
+    {
+        "id": 13,
+        "name": "Judy Smith",
+        "age": 66,
+        "gender": "female",
+        "email": "kimberly78@example.com",
+        "address": "658 Martinez Trafficway, Jamesborough, PW 92523",
+        "phone": "(485)999-8919x030"
+    },
+    {
+        "id": 14,
+        "name": "Samuel Cruz",
+        "age": 70,
+        "gender": "female",
+        "email": "lperry@example.com",
+        "address": "70042 Kimberly Streets, Rogersside, NM 39893",
+        "phone": "+1-934-665-5851"
+    },
+    {
+        "id": 15,
+        "name": "Kathleen Robinson",
+        "age": 66,
+        "gender": "male",
+        "email": "pettystephen@example.net",
+        "address": "497 Carter Hollow, Adamshire, SD 11914",
+        "phone": "+1-335-983-8370x1109"
+    },
+    {
+        "id": 16,
+        "name": "Stephen White",
+        "age": 40,
+        "gender": "female",
+        "email": "joseph74@example.org",
+        "address": "06981 Macdonald Meadows, South Lindsayshire, NJ 65239",
+        "phone": "2737687258"
+    },
+    {
+        "id": 17,
+        "name": "Ian Sanchez",
+        "age": 46,
+        "gender": "male",
+        "email": "kim95@example.com",
+        "address": "521 Jenkins Ramp, East Sandraview, AZ 85788",
+        "phone": "+1-670-900-0926x880"
+    },
+    {
+        "id": 18,
+        "name": "Amanda Nguyen",
+        "age": 55,
+        "gender": "female",
+        "email": "lmiller@example.org",
+        "address": "3572 Christopher Rapid, New Samantha, IL 03432",
+        "phone": "5757086561"
+    },
+    {
+        "id": 19,
+        "name": "Sean Nguyen",
+        "age": 79,
+        "gender": "male",
+        "email": "jenniferhood@example.org",
+        "address": "406 Williams Fort Apt. 957, Martinton, IL 55171",
+        "phone": "320.969.6591"
+    },
+    {
+        "id": 20,
+        "name": "Karen Martinez",
+        "age": 45,
+        "gender": "male",
+        "email": "vickieharris@example.net",
+        "address": "51699 William Ramp Suite 302, South Kellimouth, AS 26343",
+        "phone": "(316)907-5769"
+    },
+    {
+        "id": 21,
+        "name": "Shawn Henry",
+        "age": 28,
+        "gender": "male",
+        "email": "hannahperry@example.org",
+        "address": "5331 White Ville, East Brent, GA 56990",
+        "phone": "+1-847-837-4380x6328"
+    },
+    {
+        "id": 22,
+        "name": "Annette Abbott",
+        "age": 41,
+        "gender": "male",
+        "email": "john25@example.org",
+        "address": "226 James Lane Suite 632, Leahburgh, DC 64411",
+        "phone": "(649)317-1932x306"
+    },
+    {
+        "id": 23,
+        "name": "Samantha Miller",
+        "age": 46,
+        "gender": "female",
+        "email": "yukeith@example.com",
+        "address": "1941 Colleen Islands Suite 888, Marcusfurt, VA 67696",
+        "phone": "(540)489-4422x258"
+    },
+    {
+        "id": 24,
+        "name": "Anthony Beck",
+        "age": 20,
+        "gender": "female",
+        "email": "elizabethsmith@example.net",
+        "address": "9811 Small Camp, West Katie, KY 23130",
+        "phone": "001-405-615-1614"
+    },
+    {
+        "id": 25,
+        "name": "Richard Wood",
+        "age": 23,
+        "gender": "female",
+        "email": "juan68@example.com",
+        "address": "44651 Mclaughlin Lake Suite 331, Port Debbie, SC 34344",
+        "phone": "762.333.1062"
+    },
+    {
+        "id": 26,
+        "name": "Kristin Williams",
+        "age": 61,
+        "gender": "male",
+        "email": "steven31@example.org",
+        "address": "49572 Trujillo Flat Apt. 690, Murraytown, MN 37972",
+        "phone": "001-534-647-5854x39903"
+    },
+    {
+        "id": 27,
+        "name": "Christopher Caldwell",
+        "age": 63,
+        "gender": "female",
+        "email": "kathy33@example.org",
+        "address": "123 Roman Freeway Apt. 992, North Steven, SC 46865",
+        "phone": "+1-222-404-6201"
+    },
+    {
+        "id": 28,
+        "name": "Mary Dougherty",
+        "age": 79,
+        "gender": "female",
+        "email": "andreabenson@example.net",
+        "address": "9202 Melissa Plaza Suite 194, South Matthewville, MP 23542",
+        "phone": "+1-589-995-5952x9031"
+    },
+    {
+        "id": 29,
+        "name": "Jacob Mendez",
+        "age": 68,
+        "gender": "female",
+        "email": "zjohnson@example.org",
+        "address": "95208 Buckley Bypass Apt. 045, Port Ashleyville, AR 43599",
+        "phone": "(295)941-9608"
+    },
+    {
+        "id": 30,
+        "name": "David Burke",
+        "age": 63,
+        "gender": "male",
+        "email": "romeroellen@example.org",
+        "address": "740 Warren Spurs, Kristyside, IL 42430",
+        "phone": "(528)471-1632x747"
+    }
+]
